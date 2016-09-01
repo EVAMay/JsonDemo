@@ -36,7 +36,10 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        load();
+
+            load();
+
+
     }
     int time=3;
     private Handler handler=new Handler(){
